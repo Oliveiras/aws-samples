@@ -10,7 +10,7 @@
         <version>0.1.0</version>
     </parent>
 
-    <artifactId>sqs-1-send-receive</artifactId>
+    <artifactId>sqs-2-receive-long-polling</artifactId>
 
     <dependencies>
 

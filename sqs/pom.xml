@@ -15,6 +15,8 @@
 
     <modules>
         <module>sqs-1-send-receive</module>
+        <module>sqs-2-receive-long-polling</module>
+        <module>sqs-3-receive-async</module>
     </modules>
 
 </project>
